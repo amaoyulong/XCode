@@ -22,8 +22,8 @@
 
 	std::string out = CXCode::escape(src);
 
-##其他注意事项：
-1，本工程依赖于libiconv.a，在mac下依赖于libiconv.dylib
+## 其他注意事项：
+1，本工程依赖于libiconv.a，在mac下依赖于libiconv.dylib  
 2，具体例子可以参考test下面的test.cpp  	
 
 
